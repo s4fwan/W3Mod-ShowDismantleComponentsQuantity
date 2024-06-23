@@ -1,0 +1,145 @@
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step Clean has been started!
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step Clean has finished!
+[2024.06.24 04:12:12][Info][Core] Reachability		 51.80 ms
+[2024.06.24 04:12:12][Info][Core] Collecting unreachables 0.36 ms
+[2024.06.24 04:12:12][Info][Core] GC 105442->100410, 322 roots, 82.97 ms
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step Analyze has been started!
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step Analyze has finished!
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step CompileShaders has been started!
+[2024.06.24 04:12:12][Info][Editor] ModCooker: Step CompileShaders has finished!
+[2024.06.24 04:12:12][Info][WCC] Parsed seed list 'in memory', found 3 seed files to cook
+[2024.06.24 04:12:12][Info][WCC] Loading cooker data base...
+[2024.06.24 04:12:12][Warning][WCC] Failed to load existing cooking data base from 'c:\dev\w3\w3mod-dismantlepartquantity\cooked\cook.db'. New one will be generated.
+[2024.06.24 04:12:12][Info][Cooker] Initializing texture cache...
+[2024.06.24 04:12:12][Info][WCC] Found 3 files in the initial cooking list
+[2024.06.24 04:12:12][Info][WCC] Start cooking scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (002FFEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Dynamic class resolve for resource 'scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws' failed!'
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (002FFEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Deserialization failure in file 'scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws'
+[2024.06.24 04:12:12][Error][Core] !!! LOADING FAILED !!! 
+[2024.06.24 04:12:12][Error][Core] Unable to load 'scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws' 
+[2024.06.24 04:12:12][Error][WCC] Failed to load 'scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws' - is this a resource
+[2024.06.24 04:12:12][Error][WCC] Failed to cook 'scripts\game\gui\_old\components\guidisassembleinventorycomponent.ws' !
+[2024.06.24 04:12:12][Info][WCC] Start cooking scripts\game\gui\menus\blacksmithmenu.ws
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (002FFEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Dynamic class resolve for resource 'scripts\game\gui\menus\blacksmithmenu.ws' failed!'
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (002FFEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Deserialization failure in file 'scripts\game\gui\menus\blacksmithmenu.ws'
+[2024.06.24 04:12:12][Error][Core] !!! LOADING FAILED !!! 
+[2024.06.24 04:12:12][Error][Core] Unable to load 'scripts\game\gui\menus\blacksmithmenu.ws' 
+[2024.06.24 04:12:12][Error][WCC] Failed to load 'scripts\game\gui\menus\blacksmithmenu.ws' - is this a resource
+[2024.06.24 04:12:12][Error][WCC] Failed to cook 'scripts\game\gui\menus\blacksmithmenu.ws' !
+[2024.06.24 04:12:12][Info][WCC] Start cooking scripts\local\dismantledpartsquantity.ws
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (0073FEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Dynamic class resolve for resource 'scripts\local\dismantledpartsquantity.ws' failed!'
+[2024.06.24 04:12:12][Warning][Core] File magic is invalid (0073FEFF != 57325243), file is not a resource.
+[2024.06.24 04:12:12][Error][Core] Deserialization failure in file 'scripts\local\dismantledpartsquantity.ws'
+[2024.06.24 04:12:12][Error][Core] !!! LOADING FAILED !!! 
+[2024.06.24 04:12:12][Error][Core] Unable to load 'scripts\local\dismantledpartsquantity.ws' 
+[2024.06.24 04:12:12][Error][WCC] Failed to load 'scripts\local\dismantledpartsquantity.ws' - is this a resource
+[2024.06.24 04:12:12][Error][WCC] Failed to cook 'scripts\local\dismantledpartsquantity.ws' !
+[2024.06.24 04:12:12][Info][WCC] Biggest BLAS size = 0 kb - ''
+[2024.06.24 04:12:13][Info][WCC] Cooker data base saved in 0.00s (3 entries, 0.00 MB)
+[2024.06.24 04:12:13][Info][WCC] Cooking finished in 0.03s
+[2024.06.24 04:12:13][Info][WCC] Cooked 3 files in total
+[2024.06.24 04:12:13][Info][WCC] Total loading time: 0.00s
+[2024.06.24 04:12:13][Info][WCC] Total saving time: 0.00s
+[2024.06.24 04:12:13][Info][WCC] Total cooking time: 0.00s (0 objects)
+[2024.06.24 04:12:13][Info][WCC] Per class cooking stats (0 classes):
+[2024.06.24 04:12:13][Info][WCC] Cooker data base saved in 0.00s (3 entries, 0.00 MB)
+[2024.06.24 04:12:13][Info][Cooker] Flushing texture cache...
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step Cook has been started!
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step Cook has finished!
+[2024.06.24 04:12:13][Error][SoundModCooker] Fatal Error: WWISE installation not found, please install it from https://www.audiokinetic.com/
+ - The WWISE version must not be newer than 2021.1.14
+
+The Editor searches in these places (in this order):
+ - In the default installation folder: "C:\Program Files (x86)\Audiokinetic\Wwise..."
+ - In the system's PATH, as "WwiseCLI.exe" or "WwiseConsole.exe"
+ - In "tools\wwise\x64\Release\bin\WwiseCLI.exe"
+
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step CompileSounds has been started!
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step CompileSounds has finished!
+[2024.06.24 04:12:13][Info][Core] Reachability		 42.84 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.26 ms
+[2024.06.24 04:12:13][Info][Core] GC 100413->100410, 322 roots, 43.21 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 46.22 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.28 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 46.56 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 47.67 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.35 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 48.09 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 43.66 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.27 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 43.99 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 46.24 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.26 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 46.55 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 52.69 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.26 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 53.01 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 47.12 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.27 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 47.43 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 47.58 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.26 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 47.88 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 41.24 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.28 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 41.59 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 46.30 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.26 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 46.60 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 45.49 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.39 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 45.93 ms
+[2024.06.24 04:12:13][Info][Core] Reachability		 45.43 ms
+[2024.06.24 04:12:13][Info][Core] Collecting unreachables 0.27 ms
+[2024.06.24 04:12:13][Info][Core] GC 100410->100410, 322 roots, 45.75 ms
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step CompileSpeech has been started!
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step CompileSpeech has finished!
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step VerifyAndCopy has been started!
+[2024.06.24 04:12:13][Info][Editor] ModCooker: Step VerifyAndCopy has finished!
+[2024.06.24 04:12:14][Info][WCC] Loading cooker data base...
+[2024.06.24 04:12:14][Info][WCC] Parsing cooker data base...
+[2024.06.24 04:12:14][Info][WCC] Parsed 3 existing entries from cooker data base in 0.00s
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CollisionCache has been started!
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CollisionCache has finished!
+[2024.06.24 04:12:14][Info][WCC] Loading cooker data base...
+[2024.06.24 04:12:14][Info][WCC] Parsing cooker data base...
+[2024.06.24 04:12:14][Info][WCC] Parsed 3 existing entries from cooker data base in 0.00s
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step TextureCache has been started!
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step TextureCache has finished!
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CreateBundles has been started!
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CreateBundles has finished!
+[2024.06.24 04:12:14][Info][WCC] Loaded 0 bundles with 0 entries
+[2024.06.24 04:12:14][Info][WCC] Ignored censorship for 0 files
+[2024.06.24 04:12:14][Info][WCC] Analyzing buffers....
+[2024.06.24 04:12:14][Info][WCC] Number of buffers: 0
+[2024.06.24 04:12:14][Info][WCC] Number of files with buffers: 0
+[2024.06.24 04:12:14][Info][WCC] Max buffer ID: 0
+[2024.06.24 04:12:14][Info][Core] Found 1 directories in bundle file mapping (0 files)
+[2024.06.24 04:12:14][Info][Core] Used 0.00KB for directory names
+[2024.06.24 04:12:14][Info][Core] Used 0.00KB for file names
+[2024.06.24 04:12:14][Info][WCC] Exported 0.00 KB of text (discardable)
+[2024.06.24 04:12:14][Info][WCC] Exported 0 bundles (0.02 KB)
+[2024.06.24 04:12:14][Info][WCC] Exported 0 entries (0.02 KB)
+[2024.06.24 04:12:14][Info][WCC] Exported 0 files (0.03 KB)
+[2024.06.24 04:12:14][Info][WCC] Created 0 buffers (0.00 KB)
+[2024.06.24 04:12:14][Info][WCC] Created 0.01 KB in initialization data
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -- Per extension stats for normal files
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -- Per extension stats for buffer files
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -- Compression statistics for totals
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Info][WCC] -------------------------------------------------------
+[2024.06.24 04:12:14][Error][Editor] Could not remove directory: 'c:\dev\w3\w3mod-dismantlepartquantity\packed\dlc\'
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CreateMetadataStores has been started!
+[2024.06.24 04:12:14][Info][Editor] ModCooker: Step CreateMetadataStores has finished!
