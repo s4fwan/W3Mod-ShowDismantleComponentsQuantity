@@ -1,13 +1,13 @@
 {
-    "name": "showdismantlecomponentsquantity",
-    "modName": "Show Predicted Dismantle Components Quantity",
+    "name": "ShowDismantleComponentsQuantity",
+    "modName": "Component Quantity Received on Dismantle Screen",
     "version": "1.0",
     "gameVersion": "",
     "description": "This mod displays how many crafting components will be received for dismantling an item.",
-    "thumbnail": "",
+    "thumbnail": "C:\\Dev\\w3\\ShowDismantleComponentsQuantity\\thumbnail.png",
     "author": "",
     "idSpace": 10000000,
-    "workshopId": 0,
+    "workshopId": 3275377994,
     "succesfullyCooked": true,
     "dependencies": [],
     "excludedDlc": [
