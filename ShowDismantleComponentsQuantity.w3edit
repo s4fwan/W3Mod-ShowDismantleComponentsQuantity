@@ -1,6 +1,6 @@
 {
-    "name": "w3mod-dismantlepartquantity",
-    "modName": "Dismantled Parts Quantity",
+    "name": "showdismantlecomponentsquantity",
+    "modName": "Show Predicted Dismantle Components Quantity",
     "version": "1.0",
     "gameVersion": "",
     "description": "Test description",
