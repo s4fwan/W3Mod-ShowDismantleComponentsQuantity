@@ -3,7 +3,7 @@
     "modName": "Show Predicted Dismantle Components Quantity",
     "version": "1.0",
     "gameVersion": "",
-    "description": "Test description",
+    "description": "This mod displays how many crafting components will be received for dismantling an item.",
     "thumbnail": "",
     "author": "",
     "idSpace": 10000000,
