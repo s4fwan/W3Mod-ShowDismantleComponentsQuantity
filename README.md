@@ -17,7 +17,7 @@
 
 ## **Installation**
   
-Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods/1) or:
+Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods/1) or manually (recommended):
 
 1. **Download** the mod file from the **Releases** tab.
 2. **Extract** the downloaded file using a file archiver such as WinRAR or 7-Zip into The Witcher 3's **Mods** folder, example:
