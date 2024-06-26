@@ -9,9 +9,9 @@
   
    ﻿   ﻿- **Master** Craftsmen will **always** give you the maximum components, the number displayed is the maximum.
   
-   ﻿   ﻿- **Amateur** Craftsmen will give you a random number of components between 1 and the maximum, the range is displayed.
+   ﻿   ﻿- **Journeyman** Craftsmen will give you a random number of components between 1 and the maximum, the range is displayed.
   
-   ﻿   ﻿- **Journeyman** Craftsmen will **always** give you 1 of each component, the number displayed is 1.
+   ﻿   ﻿- **Amateur** Craftsmen will **always** give you 1 of each component, the number displayed is 1.
 
 ---
 
