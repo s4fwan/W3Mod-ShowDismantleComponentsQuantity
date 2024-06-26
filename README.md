@@ -22,7 +22,7 @@ Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods
 1. **Download** the mod file from the **Releases** tab.
 2. **Extract** the downloaded file using a file archiver such as WinRAR or 7-Zip into The Witcher 3's **Mods** folder, example:
 
-    `C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Mods`
+    `C:\Program Files (x86)\Steam\steamapps\common\The Witcher 3\Mods\modShowDismantleComponentsQuantity`
 
 3. If you don’t have a **Mods** folder, create one.
 4. **Run** [Script Merger](https://www.nexusmods.com/witcher3/mods/484)﻿.
