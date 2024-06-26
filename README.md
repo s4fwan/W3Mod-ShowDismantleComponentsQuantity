@@ -64,6 +64,6 @@ Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods
 ---
 
 ## **Mod Mirrors**
-* Nexus
-* Steam
+* [Nexus](https://www.nexusmods.com/witcher3/mods/9303)
+* [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3275377994)
 * [GitHub](https://github.com/s4fwan/W3Mod-ShowDismantleComponentsQuantity/releases)﻿
