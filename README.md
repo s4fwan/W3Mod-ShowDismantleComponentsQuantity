@@ -57,9 +57,9 @@ Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods
 ## **Permissions and Usage**
 
 * You are **not allowed** to upload this mod to other sites under any circumstances.
-* You are **allowed** to convert this mod to work on other games **with credit**.
-* You are **allowed** to modify my file; including releasing bug fixes or improving on features and upload it as a separate file, **with credit**.
 * You are **not allowed** to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms.
+* You are **allowed** to convert this mod to work on other games.
+* You are **allowed** to modify my file; including releasing bug fixes or improving on features and upload it as a separate file, **with credit**.
 
 ---
 
