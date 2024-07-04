@@ -1,3 +1,6 @@
+![thumbnail_nexus](https://github.com/s4fwan/W3Mod-ShowDismantleComponentsQuantity/assets/101232178/5007348e-2fc1-4083-b3bd-c3eaaa51c0a2)
+
+
 **Component Quantity Gain on Dismantle Screen** is a mod for **The Witcher 3: Wild Hunt v.4.0 (NGE)** that displays how many crafting components will be received upon dismantling an item, in the **Dismantle** screen of the craftsman UI.
 
 ## **Features**
