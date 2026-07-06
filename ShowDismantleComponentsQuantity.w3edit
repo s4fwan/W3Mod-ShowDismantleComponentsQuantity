@@ -1,7 +1,7 @@
 {
     "name": "showdismantlecomponentsquantity",
     "modName": "Component Quantity Received on Dismantle Screen",
-    "version": "1.0",
+    "version": "1.0.1",
     "gameVersion": "",
     "description": "Displays how many crafting components will be received for dismantling an item.",
     "thumbnail": "C:\\Dev\\w3\\ShowDismantleComponentsQuantity\\media\\thumbnail.png",
