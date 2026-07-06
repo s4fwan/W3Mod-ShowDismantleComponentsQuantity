@@ -7,15 +7,12 @@
 
 * Compatible with the Next Gen Edition of the game - **v.4.0x (NGE)**
 * Displays the quantity of crafting components that will be received next to the component name:
-  
-   ﻿   ﻿- **Master** Craftsmen will **always** give you the maximum components, the number displayed is the maximum.
-  
-   ﻿   ﻿- **Journeyman** Craftsmen will give you a random number of components between 1 and the maximum, the range is displayed.
-  
-   ﻿   ﻿- **Amateur** Craftsmen will **always** give you 1 of each component, the number displayed is 1.
+    - **Master** Craftsmen will **always** give you the maximum components, the number displayed is the maximum.
+    - **Journeyman** Craftsmen will give you a random number of components between 1 (inclusive) and the maximum (exclusive), the range is displayed.
+    - **Amateur** Craftsmen will **always** give you 1 of each component, the number displayed is 1.
 
 ## **Installation**
-  
+
 Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods/1) from [Nexus](https://www.nexusmods.com/witcher3/mods/9303) or manually (recommended):
 
 1. **Download** the mod file from the **Releases** tab.
@@ -39,7 +36,11 @@ Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods
 
 ## **Changelog**
 
-**Version 1.0**
+**Version 1.0.1**
+
+* Fixed the range shown for Journeyman Craftsmen to "1 - (max-1)" instead of "1 - (max)"
+
+**Version 1.0.0**
 
 * Initial release.
 
