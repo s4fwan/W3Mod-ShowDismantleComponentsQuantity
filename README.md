@@ -38,7 +38,7 @@ Install using a mod manager such as [Vortex](https://www.nexusmods.com/site/mods
 
 **Version 1.0.1**
 
-* Fixed the range shown for Journeyman Craftsmen to "1 - (max-1)" instead of "1 - (max)"
+* Fixed the Journeyman Craftsmen range to display from 1 (inclusive) to maximum (exclusive), rather than maximum (inclusive)
 
 **Version 1.0.0**
 
